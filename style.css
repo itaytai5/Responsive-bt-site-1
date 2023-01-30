@@ -1,0 +1,41 @@
+body{
+    background-color: white;
+    margin: 0;
+}
+
+
+
+@media(max-width: 500px) {
+
+
+    body{
+        background-color: white;
+    }
+    
+}
+
+header{
+    background-color:rgb(247, 238, 253);
+    padding: 10px; 
+    font-size: 20px;
+    font-weight: bold;
+    
+ }
+
+ img{
+    background-color:gray;
+ }
+ a:link{
+    text-decoration: none;
+}
+a:hover {
+    padding: 20px;
+    background-color:rgba(29, 109, 200, 0.785);
+}
+
+#category{
+    color:rgb(0, 140, 255);
+    font-size:x-large;
+    word-spacing: 5px;
+}
+
